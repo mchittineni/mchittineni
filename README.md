@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img style="display: block; margin: 0 auto;" src="/github-metrics.svg" alt="Metrics" style="max-width: 100%;">
