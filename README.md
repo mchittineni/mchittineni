@@ -16,8 +16,8 @@ Here are some things to know about me:
 
 <table>
   <tr>
-    <th align="center">Full Metrics</th>
-    <th align="center">Stargazers</th>
+    <th align="center">🌟 Full Metrics 🌟</th>
+    <th align="center">✨ Stargazers ✨</th>
   </tr>
   <tr>
     <td align="center">
