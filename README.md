@@ -1,27 +1,23 @@
 ### Hi there 👋
 
-
-**mchittineni/mchittineni** is a ✨ _special_ ✨
-
-Here are some things to know about me:
-- 🔭 I’m currently working on Typescript & Python Projects
-- 🌱 I’m currently learning AWS (SAA-C03)
-- 👯 I’m looking to collaborate on AWS Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about AWS, Azure, GCP
-
-<!-- 
-
-<img style="display: block; margin: 0 auto;" src="metrics/github-metrics.svg" alt="Metrics" style="max-width: 100%;"> -->
-
 <table>
   <tr>
     <th align="center">🙋 Introduction</th>
     <th align="center">✨ Stargazers ✨</th>
   </tr>
   <tr>
-        <td  align="center">
-        <details><summary>My Repository</summary><img alt="" width="400" src="metrics/metrics.plugin.introduction.repository.svg" alt=""></img></details>
+        <td align="center">
+        <details>
+          <summary>About Me</summary>
+          <p>Here are some things to know about me:</p>
+          <ul>
+            <li>🔭 I’m currently working on Typescript & Python Projects</li>
+            <li>🌱 I’m currently learning AWS (SAA-C03)</li>
+            <li>👯 I’m looking to collaborate on AWS Projects</li>
+            <li>🤔 I’m looking for help with New ways to do Automation</li>
+            <li>💬 Ask me about AWS, Azure, GCP</li>
+          </ul>
+        </details>
         <img width="900" height="1" alt="">
       </td>
         <td  align="center">

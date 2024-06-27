@@ -13,16 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repository introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.introduction.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          repo: metrics
-          base: header
-          plugin_introduction: yes
-
       - name: Full Metrics
         uses: lowlighter/metrics@latest
         with:
