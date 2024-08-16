@@ -6,6 +6,8 @@ on:
     - cron: '0 00 1 * *'
 
 permissions:
+  issues: write
+  pull-requests: read
   contents: write
   
 jobs:
@@ -65,7 +67,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_isocalendar: yes
 
       - name: Full-year calendar
@@ -73,7 +74,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -82,7 +82,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_stargazers: yes
 
       - name: Using graph charts
@@ -90,7 +89,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.stargazers.graph.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: graph
 
@@ -99,7 +97,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -112,7 +109,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.languages.recent.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -126,7 +122,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -141,7 +136,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
@@ -152,17 +146,16 @@ jobs:
         with:
           filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: London
+
       - name: Current year calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.calendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_calendar: yes
           
       - name: Full history calendar
@@ -170,7 +163,6 @@ jobs:
         with:
           filename: metrics/metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
 
@@ -178,8 +170,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_topics: yes
           plugin_topics_limit: 12
 
@@ -187,8 +178,50 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
+
+      - name: Get dates for last month
+        run: |
+          # Calculate the first date of the previous month
+          first_date=$(date -d "last month" +%Y-%m-01)
+
+          # Calculate the last date of the previous month
+          last_date=$(date -d "$first_date +1 month -1 day" +%Y-%m-%d)
+
+          # Set an environment variable with the date range
+          echo "START_DATE=$first_date" >> "$GITHUB_ENV"
+          echo "END_DATE=$last_date" >> "$GITHUB_ENV"
+          echo "last_month=$first_date..$last_date" >> "$GITHUB_ENV"
+
+      - name: Report on GitHub Issues
+        uses: github/issue-metrics@v3
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SEARCH_QUERY: 'mchittineni/${{ github.event.repository.name }} is:issue created:${{ env.last_month }} -reason:"not planned"'
+
+      - name: Create Report for GitHub Issues
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Monthly GitHub Issue Metrics Report
+          token: ${{ secrets.GITHUB_TOKEN }}
+          content-filepath: ./issue_metrics.md
+          assignees: mchittineni
+
+      - name: Run contributor action
+        uses: github/contributors@v1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          START_DATE: ${{ env.START_DATE }}
+          END_DATE: ${{ env.END_DATE }}
+          REPOSITORY: mchittineni/${{ github.event.repository.name }}
+    
+      - name: Create Report for GitHub Contributors
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Monthly Contributor's Report
+          token: ${{ secrets.GITHUB_TOKEN }}
+          content-filepath: ./contributors.md
+          assignees: mchittineni
