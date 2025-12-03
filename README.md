@@ -1,22 +1,30 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <!-- =======================================================
-                    ✨ ANIMATED BANNER
+              ✨ DARK / LIGHT MODE AUTO BANNER
 ======================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems" />
+  <!-- Light mode -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1A1A1A&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems#gh-light-mode-only" />
+
+  <!-- Dark mode -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <b>Cloud | DevOps | Automation | SRE | Kubernetes</b><br>
-  Automating infrastructure, deploying scalable systems, and building high-available cloud-native stacks.
+  <b>Cloud | DevOps | Platform | Automation | SRE | FinOps | DevSecOps </b><br>
+  Automating infrastructure, deploying scalable and fault-tolerant cloud-native systems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mchittineni&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
 
 <!-- =======================================================
-                  🧰 TECH STACK SECTION
+                    🧰 TECH STACK SECTION
 ======================================================= -->
 
 ## 🧰 Tech Stack
@@ -71,7 +79,7 @@
   <summary>More about me</summary>
   <ul>
     <li>🔭 DevOps Engineer specializing in AWS, GCP, and Azure</li>
-    <li>⚙️ Passion for automation, Kubernetes, and cloud-native systems</li>
+    <li>⚙️ Passionate about automation, Kubernetes, and cloud-native systems</li>
     <li>🚀 Love building scalable CI/CD pipelines</li>
     <li>💬 Ask me about DevOps, Cloud, IaC, SRE</li>
   </ul>
@@ -109,6 +117,18 @@
     <td align="center">
       <details open><summary>Full Year Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.graph.svg"></details>
       <details><summary>Monthly Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.svg"></details>
+    </td>
+    <td align="center">
+      <details>
+        <summary>About Me</summary>
+        <ul>
+          <li>🔭 Working on Typescript & Python Projects</li>
+          <li>🌱 Learning AWS SAA-C03</li>
+          <li>👯 Looking to collaborate on AWS Projects</li>
+          <li>🤔 Exploring new automation techniques</li>
+          <li>💬 Ask me about AWS, Azure, GCP</li>
+        </ul>
+      </details>
     </td>
   </tr>
 
@@ -162,6 +182,34 @@
 ---
 
 <!-- =======================================================
+                🐍 ANIMATED SNAKE CONTRIBUTION GRID
+======================================================= -->
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <!-- Light mode -->
+  <img src="https://raw.githubusercontent.com/mchittineni/mchittineni/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+  <!-- Dark mode -->
+  <img src="https://raw.githubusercontent.com/mchittineni/mchittineni/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
+
+---
+
+<!-- =======================================================
+                    🧊 3D CONTRIBUTION GRAPH
+======================================================= -->
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mchittineni/mchittineni/main/profile-3d-contrib/profile-night-rainbow.svg" width="800" />
+</p>
+
+---
+
+<!-- =======================================================
                         🧭 FOOTER
 ======================================================= -->
 
@@ -191,5 +239,5 @@
 
 <p align="center">
   <b>🚀 Thanks for visiting! Let's build something amazing.</b><br>
-  <i>Cloud · DevOps · Automation · SRE </i>
+  <i>Cloud · DevOps · Automation · SRE · FinOps · DevSecOps</i>
 </p>
