@@ -1,15 +1,11 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <!-- =======================================================
-              ✨ DARK / LIGHT MODE AUTO BANNER
+                    ✨ ANIMATED BANNER
 ======================================================= -->
 
 <p align="center">
-  <!-- Light mode -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=1A1A1A&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems#gh-light-mode-only" />
-
-  <!-- Dark mode -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFFFF&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems#gh-dark-mode-only" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems" />
 </p>
 
 <p align="center">
@@ -178,36 +174,6 @@
     </td>
   </tr>
 </table>
-
----
-
-<!-- =======================================================
-                🐍 ANIMATED SNAKE CONTRIBUTION GRID
-======================================================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <!-- Light mode -->
-  <img src="https://raw.githubusercontent.com/mchittineni/mchittineni/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-
-  <!-- Dark mode -->
-  <img src="https://raw.githubusercontent.com/mchittineni/mchittineni/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</p>
-
----
-
-<!-- =======================================================
-                    🧊 3D CONTRIBUTION GRAPH
-======================================================= -->
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mchittineni/mchittineni/main/profile-3d-contrib/profile-night-rainbow.svg" width="800" />
-</p>
-
----
 
 <!-- =======================================================
                         🧭 FOOTER
