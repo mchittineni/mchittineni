@@ -9,14 +9,18 @@
 </p>
 
 <p align="center">
-  <b>Cloud | DevOps | Automation | SRE | Kubernetes</b><br>
-  Automating infrastructure, deploying scalable systems, and building high-available cloud-native stacks.
+  <b>Cloud | DevOps | Platform | Automation | SRE | FinOps | DevSecOps </b><br>
+  Automating infrastructure, deploying scalable and fault-tolerant cloud-native systems.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mchittineni&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
 
 <!-- =======================================================
-                  🧰 TECH STACK SECTION
+                    🧰 TECH STACK SECTION
 ======================================================= -->
 
 ## 🧰 Tech Stack
@@ -71,7 +75,7 @@
   <summary>More about me</summary>
   <ul>
     <li>🔭 DevOps Engineer specializing in AWS, GCP, and Azure</li>
-    <li>⚙️ Passion for automation, Kubernetes, and cloud-native systems</li>
+    <li>⚙️ Passionate about automation, Kubernetes, and cloud-native systems</li>
     <li>🚀 Love building scalable CI/CD pipelines</li>
     <li>💬 Ask me about DevOps, Cloud, IaC, SRE</li>
   </ul>
@@ -109,6 +113,15 @@
     <td align="center">
       <details open><summary>Full Year Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.graph.svg"></details>
       <details><summary>Monthly Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.svg"></details>
+    </td>
+    <td align="center">
+      <details>
+        <summary>About Me</summary>
+        <ul>
+          <li>🤔 Exploring new automation techniques</li>
+          <li>💬 Ask me about AWS, Azure, GCP</li>
+        </ul>
+      </details>
     </td>
   </tr>
 
@@ -159,8 +172,6 @@
   </tr>
 </table>
 
----
-
 <!-- =======================================================
                         🧭 FOOTER
 ======================================================= -->
@@ -191,5 +202,5 @@
 
 <p align="center">
   <b>🚀 Thanks for visiting! Let's build something amazing.</b><br>
-  <i>Cloud · DevOps · Automation · SRE </i>
+  <i>Cloud · DevOps · Automation · SRE · FinOps · DevSecOps</i>
 </p>
