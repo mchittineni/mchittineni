@@ -22,7 +22,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle,kubernetes,docker,terraform,ansible,jenkins,github,gitlab,bitbucket,python,java,javascript,typescript,linux,bash,powershell,shell,datadog,prometheus,grafana,elasticsearch,cypress,selenium,postman,firebase,helm,nginx,dart,flutter&perline=4" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle,kubernetes,docker,terraform,ansible,jenkins,github,gitlab,bitbucket,python,java,javascript,typescript,linux,bash,powershell,shell,prometheus,grafana,elasticsearch,datadog,cypress,selenium,postman,firebase,nginx,dart,flutter,helm&perline=4" />
 </p>
 
 <!-- =======================================================
