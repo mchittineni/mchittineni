@@ -22,24 +22,8 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,github,git,linux,python,bash,prometheus,grafana,helm,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,oracle,kubernetes,docker,terraform,ansible,jenkins,github,gitlab,bitbucket,python,java,javascript,typescript,linux,bash,shell,datadog,prometheus,grafana,elk,helm,nginx&perline=4" />
 </p>
-
----
-
-<!-- =======================================================
-                  🔧 CUSTOM DEVOPS WORKFLOW
-======================================================= -->
-
-## 🔧 DevOps Workflow
-
-<p align="center">
-  <img src="https://i.imgur.com/vkiepVv.png" width="90%" />
-</p>
-
-*(Plan → Code → Build → Test → Release → Deploy → Monitor → Feedback)*
-
----
 
 <!-- =======================================================
                         📦 PROJECTS GRID
@@ -126,19 +110,6 @@
       <details open><summary>Full Year Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.graph.svg"></details>
       <details><summary>Monthly Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.svg"></details>
     </td>
-
-    <td align="center">
-      <details>
-        <summary>About Me</summary>
-        <ul>
-          <li>🔭 Working on Typescript & Python Projects</li>
-          <li>🌱 Learning AWS SAA-C03</li>
-          <li>👯 Looking to collaborate on AWS Projects</li>
-          <li>🤔 Exploring new automation methods</li>
-          <li>💬 Ask me about AWS, Azure, GCP</li>
-        </ul>
-      </details>
-    </td>
   </tr>
 
   <tr>
@@ -151,7 +122,6 @@
       <details open><summary>Full Year Calendar</summary><img width="400" src="metrics/metrics.plugin.isocalendar.fullyear.svg"></details>
       <details><summary>Half Year Calendar</summary><img width="400" src="metrics/metrics.plugin.isocalendar.svg"></details>
     </td>
-
     <td align="center">
       <details open><summary>In-depth Analysis</summary><img width="400" src="metrics/metrics.plugin.languages.indepth.svg"></details>
       <details open><summary>Recently Used</summary><img width="400" src="metrics/metrics.plugin.languages.recent.svg"></details>
@@ -169,7 +139,6 @@
       <details open><summary>With Icons</summary><img width="400" src="metrics/metrics.plugin.topics.icons.svg"></details>
       <details open><summary>With Labels</summary><img width="400" src="metrics/metrics.plugin.topics.svg"></details>
     </td>
-
     <td align="center">
       <details open><summary>Recent Activity Charts</summary><img width="400" src="metrics/metrics.plugin.habits.charts.svg"></details>
       <details open><summary>Mildly Interesting Facts</summary><img width="400" src="metrics/metrics.plugin.habits.facts.svg"></details>
@@ -183,7 +152,6 @@
 
   <tr>
     <td align="center"><img width="400" src="metrics/github-metrics.svg"></td>
-
     <td align="center">
       <details><summary>Current Year</summary><img width="400" src="metrics/metrics.plugin.calendar.svg"></details>
       <details open><summary>Full History</summary><img width="400" src="metrics/metrics.plugin.calendar.full.svg"></details>
@@ -202,7 +170,7 @@
 <p align="center">
 
 <a href="mailto:manideep.chittineni@hotmail.com">
-  <img src="https://skillicons.dev/icons?i=hotmail" width="50" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
 </a>
 
 <a href="https://linkedin.com/in/manideep.chittineni">
@@ -210,7 +178,7 @@
 </a>
 
 <a href="https://d1b15k9mvnc6aj.cloudfront.net/">
-  <img src="https://skillicons.dev/icons?i=html" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" />
 </a>
 
 <a href="https://github.com/mchittineni">
@@ -223,5 +191,5 @@
 
 <p align="center">
   <b>🚀 Thanks for visiting! Let's build something amazing.</b><br>
-  <i>Cloud · DevOps · Automation · SRE · Kubernetes</i>
+  <i>Cloud · DevOps · Automation · SRE </i>
 </p>
