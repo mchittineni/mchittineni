@@ -118,9 +118,6 @@
       <details>
         <summary>About Me</summary>
         <ul>
-          <li>🔭 Working on Typescript & Python Projects</li>
-          <li>🌱 Learning AWS SAA-C03</li>
-          <li>👯 Looking to collaborate on AWS Projects</li>
           <li>🤔 Exploring new automation techniques</li>
           <li>💬 Ask me about AWS, Azure, GCP</li>
         </ul>
