@@ -1,137 +1,227 @@
-### Hi there 👋
-DevOps Engineer specialising in AWS, GCP, and Azure with a focus on automation, IaC, and cloud-native platforms.
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+
+<!-- =======================================================
+                    ✨ ANIMATED BANNER
+======================================================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=650&lines=Manideep+Chittineni;Cloud+Engineer+%7C+DevOps+Engineer;Automation+%7C+SRE+%7C+Kubernetes+Expert;Building+Scalable+Cloud-Native+Systems" />
 </p>
+
+<p align="center">
+  <b>Cloud | DevOps | Automation | SRE | Kubernetes</b><br>
+  Automating infrastructure, deploying scalable systems, and building high-available cloud-native stacks.
+</p>
+
+---
+
+<!-- =======================================================
+                  🧰 TECH STACK SECTION
+======================================================= -->
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,jenkins,github,git,linux,python,bash,prometheus,grafana,helm,nginx" />
+</p>
+
+---
+
+<!-- =======================================================
+                  🔧 CUSTOM DEVOPS WORKFLOW
+======================================================= -->
+
+## 🔧 DevOps Workflow
+
+<p align="center">
+  <img src="https://i.imgur.com/vkiepVv.png" width="90%" />
+</p>
+
+*(Plan → Code → Build → Test → Release → Deploy → Monitor → Feedback)*
+
+---
+
+<!-- =======================================================
+                        📦 PROJECTS GRID
+======================================================= -->
+
+## 📦 Featured Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=kubernetes" width="60" /><br>
+          <b>Kubernetes GitOps Platform</b>
+        </a>
+        <p>ArgoCD · Helm · Kustomize · Multi-Cluster</p>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=terraform" width="60" /><br>
+          <b>Terraform AWS Infra Suite</b>
+        </a>
+        <p>VPC · EKS · RDS · Autoscaling</p>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://skillicons.dev/icons?i=docker" width="60" /><br>
+          <b>Dockerized Microservices</b>
+        </a>
+        <p>API Gateway · Monitoring · CI/CD</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<!-- =======================================================
+                   🙋 ABOUT + CERTIFICATIONS
+======================================================= -->
+
+## 🙋 About Me
+
+<details open>
+  <summary>More about me</summary>
+  <ul>
+    <li>🔭 DevOps Engineer specializing in AWS, GCP, and Azure</li>
+    <li>⚙️ Passion for automation, Kubernetes, and cloud-native systems</li>
+    <li>🚀 Love building scalable CI/CD pipelines</li>
+    <li>💬 Ask me about DevOps, Cloud, IaC, SRE</li>
+  </ul>
+</details>
+
+### 🎓 Certifications
+
+<details>
+  <summary>Click to expand</summary>
+  <ul>
+    <li><a href="https://www.credly.com/badges/5f18e335-13fb-4ccc-994d-ed8e422a0f3b/linked_in_profile">AWS Solutions Architect – Associate</a></li>
+    <li><a href="https://www.credential.net/b488aa0d-d156-499c-91a0-4132f12a97a2?key=b37942efb1541e72a4a40381246efedb424c60c551fa2b7b7baff5573d77948a#acc.5B3UOSQI">Google Cloud Associate Cloud Engineer</a></li>
+    <li><a href="https://www.credly.com/badges/5b2e93b4-470a-4d8c-b4b7-3c0cbd10cd6a?source=linked_in_profile">Microsoft Azure Fundamentals – AZ-900</a></li>
+    <li><a href="https://www.credly.com/badges/fda35ffe-a6ba-473a-b5ae-48aebba457d8?source=linked_in_profile">Microsoft Azure AI Fundamentals – AI-900</a></li>
+    <li><a href="https://education.oracle.com/oracle-cloud-infrastructure-developer-2025-associate/pexam_1Z0-1084-25">Oracle Cloud Infrastructure Developer</a></li>
+    <li><a href="https://education.oracle.com/oracle-cloud-infrastructure-2025-architect-associate/pexam_1Z0-1072-25">Oracle Cloud Infrastructure Architect</a></li>
+  </ul>
+</details>
+
+---
+
+<!-- =======================================================
+                     📊 FULL METRICS DASHBOARD
+======================================================= -->
+
+## 📊 GitHub Metrics
 
 <table>
   <tr>
-    <th align="center">🙋 Introduction</th>
     <th align="center">✨ Stargazers ✨</th>
+    <th align="center">🙋 Introduction</th>
   </tr>
+
   <tr>
     <td align="center">
-      <details open>
+      <details open><summary>Full Year Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.graph.svg"></details>
+      <details><summary>Monthly Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.svg"></details>
+    </td>
+
+    <td align="center">
+      <details>
         <summary>About Me</summary>
         <ul>
-          <li>🔭 DevOps Engineer (AWS, GCP, Azure)</li>
-          <li>👯 Open to AWS & Automation Projects</li>
-          <li>💬 Ask me about Cloud, DevOps, IaC</li>
+          <li>🔭 Working on Typescript & Python Projects</li>
+          <li>🌱 Learning AWS SAA-C03</li>
+          <li>👯 Looking to collaborate on AWS Projects</li>
+          <li>🤔 Exploring new automation methods</li>
+          <li>💬 Ask me about AWS, Azure, GCP</li>
         </ul>
       </details>
-      <details>
-        <summary>Experience (Summary)</summary>
-        <strong>DevOps Engineer — University of Exeter (Oct 2022 – Present)</strong>
-        <ul>
-          <li>100% AWS infrastructure as code with Terraform, eliminating config drift.</li>
-          <li>GitHub Actions & CodePipeline CI/CD, cutting release time and errors.</li>
-          <li>ECS/EKS + Docker with multi-region DR and CloudFront for high availability.</li>
-          <li>DevSecOps with automated security scans for GDPR/SOC 2-ready pipelines.</li>
-          <li>45% AWS cost reduction using Reserved/Spot instances and auto-scaling.</li>
-        </ul>
-
-        <strong>DevOps Engineer — Procadence Tech (Apr 2021 – Sep 2022)</strong>
-        <ul>
-          <li>GCP infra automated with Terraform & Deployment Manager, 60% faster setup.</li>
-          <li>GKE-based microservices platform (200+ services) with 99.9% uptime.</li>
-          <li>Cloud Build & Jenkins CI/CD, moving from weekly to daily deployments.</li>
-          <li>85% resource efficiency gain via autoscaling and right-sizing.</li>
-        </ul>
-
-        <strong>Software Engineer Intern — Procadence Tech (2020 – 2021)</strong>
-        <ul>
-          <li>Azure infrastructure automated with ARM templates, 45% less manual work.</li>
-          <li>Azure DevOps CI/CD improvements for faster, more reliable releases.</li>
-          <li>~15% application performance uplift via code and infra tuning.</li>
-        </ul>
-      </details>
-
-      <details>
-        <summary>Skills</summary>
-        <ul>
-          <li><strong>Languages:</strong> Python, Typescript, Bash, Java, JS</li>
-          <li><strong>Cloud:</strong> AWS, Azure, GCP, Oracle</li>
-          <li><strong>Containers:</strong> Docker, Kubernetes, Helm</li>
-          <li><strong>IaC:</strong> Terraform, Terragrunt, Pulumi, ARM, CloudFormation</li>
-          <li><strong>Monitoring:</strong> Datadog, CloudWatch, Grafana, Prometheus</li>
-          <li><strong>CI/CD:</strong> GitHub Actions, Jenkins, GitLab, Bitbucket</li>
-        </ul>
-      </details>
-
-      <details>
-        <summary>Certifications</summary>
-        <ul>
-          <li>AWS Solutions Architect – Associate</li>
-          <li>AWS Developer – Associate</li>
-          <li>AWS AI Practitioner</li>
-          <li>GCP Associate Cloud Engineer</li>
-          <li>Azure Fundamentals (AZ-900)</li>
-          <li>Azure AI Fundamentals (AI-900)</li>
-          <li>Oracle Cloud Developer Associate</li>
-        </ul>
-      </details>
-
-      <img width="900" height="1" alt="">
-    </td>
-
-    <td align="center">
-      <details open><summary>Full Year Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.graph.svg" alt="Full year GitHub stargazers graph"></img></details>
-      <details><summary>Monthly Stargazers</summary><img width="400" src="metrics/metrics.plugin.stargazers.svg" alt="Monthly GitHub stargazers chart"></img></details>
-      <img width="900" height="1" alt="">
     </td>
   </tr>
 
   <tr>
-    <th align="center">📅 commit calendar 📅</th>
-    <th align="center">🈷️ Languages activity 🈷️</th>
+    <th align="center">📅 Commit Calendar</th>
+    <th align="center">🈷️ Languages Activity</th>
   </tr>
+
   <tr>
     <td align="center">
-      <details open><summary>Full year calendar</summary><img width="400" src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="Full year contribution calendar"></img></details>
-      <details><summary>Half year calendar</summary><img width="400" src="metrics/metrics.plugin.isocalendar.svg" alt="Half year contribution calendar"></img></details>
-      <img width="900" height="1" alt="">
+      <details open><summary>Full Year Calendar</summary><img width="400" src="metrics/metrics.plugin.isocalendar.fullyear.svg"></details>
+      <details><summary>Half Year Calendar</summary><img width="400" src="metrics/metrics.plugin.isocalendar.svg"></details>
     </td>
+
     <td align="center">
-      <details open><summary>Indepth analysis</summary><img width="400" src="metrics/metrics.plugin.languages.indepth.svg" alt="In-depth programming languages analysis"></img></details>
-      <details open><summary>Recently used</summary><img width="400" src="metrics/metrics.plugin.languages.recent.svg" alt="Recently used programming languages"></img></details>
-      <details><summary>Default algorithm</summary><img width="400" src="metrics/metrics.plugin.languages.details.svg" alt="Most used programming languages details"></img></details>
+      <details open><summary>In-depth Analysis</summary><img width="400" src="metrics/metrics.plugin.languages.indepth.svg"></details>
+      <details open><summary>Recently Used</summary><img width="400" src="metrics/metrics.plugin.languages.recent.svg"></details>
+      <details><summary>Default Algorithm</summary><img width="400" src="metrics/metrics.plugin.languages.details.svg"></details>
     </td>
   </tr>
 
   <tr>
-    <th align="center">📌 Starred topics 📌</th>
-    <th align="center">💡 Coding habits and activity 💡</th>
+    <th align="center">📌 Starred Topics</th>
+    <th align="center">💡 Coding Habits</th>
   </tr>
+
   <tr>
     <td align="center">
-      <details open><summary>With icons</summary><img width="400" src="metrics/metrics.plugin.topics.icons.svg" alt="Starred topics with icons"></img></details>
-      <details open><summary>With labels</summary><img width="400" src="metrics/metrics.plugin.topics.svg" alt="Starred topics with labels"></img></details>
-      <img width="900" height="1" alt="">
+      <details open><summary>With Icons</summary><img width="400" src="metrics/metrics.plugin.topics.icons.svg"></details>
+      <details open><summary>With Labels</summary><img width="400" src="metrics/metrics.plugin.topics.svg"></details>
     </td>
+
     <td align="center">
-      <details open><summary>Recent activity charts</summary><img width="400" src="metrics/metrics.plugin.habits.charts.svg" alt="Recent coding activity charts"></img></details>
-      <details open><summary>Mildly interesting facts</summary><img width="400" src="metrics/metrics.plugin.habits.facts.svg" alt="Coding habits and interesting stats"></img></details>
-      <img width="900" height="1" alt="">
+      <details open><summary>Recent Activity Charts</summary><img width="400" src="metrics/metrics.plugin.habits.charts.svg"></details>
+      <details open><summary>Mildly Interesting Facts</summary><img width="400" src="metrics/metrics.plugin.habits.facts.svg"></details>
     </td>
   </tr>
 
   <tr>
-    <th align="center">🌟 Full Metrics 🌟</th>
-    <th align="center">📆 Commit calendar 📆</th>
+    <th align="center">🌟 Full Metrics</th>
+    <th align="center">📆 Commit Calendar</th>
   </tr>
+
   <tr>
-    <td align="center"><img width="400" src="metrics/github-metrics.svg" alt="Combined GitHub metrics overview"></img></td>
+    <td align="center"><img width="400" src="metrics/github-metrics.svg"></td>
+
     <td align="center">
-      <details><summary>Current year</summary><img width="400" src="metrics/metrics.plugin.calendar.svg" alt="Current year contribution calendar"></img></details>
-      <details open><summary>Full history</summary><img width="400" src="metrics/metrics.plugin.calendar.full.svg" alt="Full history contribution calendar"></img></details>
-      <img width="900" height="1" alt="">
+      <details><summary>Current Year</summary><img width="400" src="metrics/metrics.plugin.calendar.svg"></details>
+      <details open><summary>Full History</summary><img width="400" src="metrics/metrics.plugin.calendar.full.svg"></details>
     </td>
   </tr>
 </table>
+
+---
+
+<!-- =======================================================
+                        🧭 FOOTER
+======================================================= -->
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:manideep.chittineni@hotmail.com">
+  <img src="https://skillicons.dev/icons?i=hotmail" width="50" />
+</a>
+
+<a href="https://linkedin.com/in/manideep.chittineni">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="https://d1b15k9mvnc6aj.cloudfront.net/">
+  <img src="https://skillicons.dev/icons?i=html" width="50" />
+</a>
+
+<a href="https://github.com/mchittineni">
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Thanks for visiting! Let's build something amazing.</b><br>
+  <i>Cloud · DevOps · Automation · SRE · Kubernetes</i>
+</p>
