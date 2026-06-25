@@ -1,0 +1,40 @@
+name: 🐍 Contribution Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Twice a day so the snake stays fresh
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    name: Generate snake animation
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake/snake.svg
+            assets/snake/snake-dark.svg?palette=github-dark
+            assets/snake/snake.gif?color_snake=orange&color_dots=#bfd0e0,#5b8db8,#3268a8,#1d4e89,#0a2d5c
+
+      - name: Commit to repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(snake): refresh contribution animation [skip ci]"
+          file_pattern: assets/snake/*
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com

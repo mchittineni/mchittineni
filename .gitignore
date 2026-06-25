@@ -1,0 +1,23 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local agent / tooling state
+.claude/
+
+# Generated report artifacts (created during workflow runs)
+issue_metrics.md
+contributors.md
+
+# Logs & temp
+*.log
+node_modules/
+tmp/
