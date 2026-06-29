@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/manideep.chittineni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:manideep.chittineni@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://d1b15k9mvnc6aj.cloudfront.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
+  <a href="https://mchittineni.github.io/mchittineni-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
   <a href="https://github.com/mchittineni"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
