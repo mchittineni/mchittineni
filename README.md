@@ -357,7 +357,7 @@ mindset: AI-fluency + deep platform engineering = secure, governed, cost-aware A
   </tr>
 </table>
 
-<sub>🟢 AWS Demonstrated: * <a href="https://www.credly.com/badges/7dc752e5-43ae-4ee7-bbfd-33631e412f16/linked_in_profile">Application Networking</a> * <a href="https://www.credly.com/badges/77b46116-d903-49b5-8e2c-e13a9f47472c/linked_in_profile">Incident Response</a> * <a href="https://www.credly.com/badges/20201dc6-9611-4c9f-8e38-43f448cca8c9">Serverless</a></sub>
+<sub>🟢 AWS Demonstrated: * <a href="https://www.credly.com/badges/1b16c055-a5f2-41f6-8f03-569b4e3e4cf9/linked_in_profile">AWS Agentic AI Demonstrated</a> <a href="https://www.credly.com/badges/7dc752e5-43ae-4ee7-bbfd-33631e412f16/linked_in_profile">Application Networking</a> * <a href="https://www.credly.com/badges/77b46116-d903-49b5-8e2c-e13a9f47472c/linked_in_profile">Incident Response</a> * <a href="https://www.credly.com/badges/20201dc6-9611-4c9f-8e38-43f448cca8c9">Serverless</a></sub>
 
 <!-- ════════════════════════════════════════════════════════════════
                              FOOTER
