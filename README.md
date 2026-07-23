@@ -5,7 +5,7 @@
 ═════════════════════════════════════════════════════════════════ -->
 
 <a href="https://mchittineni.github.io/Portfolio/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e1b4b,70:0284c7,100:06b6d4&height=220&section=header&text=Manideep%20Chittineni&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Platform%2C%20Cloud%20%26%20DevOps%20Engineer%20%E2%80%A2%20AI%20%26%20Agentic%20Engineer&descSize=16&descAlignY=58" alt="Manideep Chittineni Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0284c7&height=200&section=header&text=Manideep%20Chittineni&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Platform%2C%20Cloud%20and%20DevOps%20Engineer%20%E2%80%A2%20AI%20and%20Agentic%20Engineer&descSize=16&descAlignY=58" alt="Manideep Chittineni Header" />
 </a>
 
 <br />
@@ -43,13 +43,13 @@
 ## ⚡ Executive Summary
 
 ```
-┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│  Senior Platform, Cloud & DevOps Engineer with 6+ years of experience architecting,     │
-│  securing, and operating enterprise platforms across AWS, Azure, GCP, and OCI.           │
-│                                                                                           │
-│  Specialized in multi-cloud platform engineering, Kubernetes (EKS/AKS/GKE), Terraform,  │
-│  Databricks, Snowflake, DevSecOps, SRE, FinOps, and production Agentic AI & GenAI systems.│
-└───────────────────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│  Senior Platform, Cloud & DevOps Engineer with 6+ years of experience architecting,         │
+│  securing, and operating enterprise platforms across AWS, Azure, GCP, and OCI.              │
+│                                                                                             │
+│  Specialized in multi-cloud platform engineering, Kubernetes (EKS/AKS/GKE), Terraform,      │
+│  Databricks, Snowflake, DevSecOps, SRE, FinOps, and production Agentic AI & GenAI systems.  │
+└─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 > 🎯 **Core Expertise**: Reusable Infrastructure as Code (**25+ Terraform modules**), managed **Kubernetes at 99.99% uptime**, zero-trust IAM governance, automated **CI/CD delivery**, cloud cost governance (**45% spend reduction**), and production **Agentic AI / Model Context Protocol (MCP)** integration on **Amazon Bedrock** and **Google Cloud Vertex AI**.
@@ -451,7 +451,7 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
 </p>
 
 <a href="https://mchittineni.github.io/Portfolio/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e1b4b,100:0f172a&height=120&section=footer" alt="Footer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e1b4b,100:0f172a&height=120&section=footer" alt="Footer Banner" />
 </a>
 
 </div>
