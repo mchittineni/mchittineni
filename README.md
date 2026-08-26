@@ -430,6 +430,9 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
   <sub>🟢 <b>AWS Demonstrated Credentials</b>: 
   <a href="https://www.credly.com/badges/1b16c055-a5f2-41f6-8f03-569b4e3e4cf9/linked_in_profile">Agentic AI </a> · 
   <a href="https://www.credly.com/badges/7dc752e5-43ae-4ee7-bbfd-33631e412f16/linked_in_profile">Application Networking</a> · 
+  <a href="https://www.credly.com/badges/d6c3ed61-52ae-4fa5-8e9e-af27d9dded91/linked_in_profile">Data Lakehouse</a> ·
+  <a href="https://www.credly.com/badges/d86ed057-838e-4a38-b943-a4b4702f01d6/linked_in_profile">Data Streaming</a> ·
+  <a href="https://www.credly.com/badges/e7176f89-1b4e-4b2f-95bb-de80550b2fc6/linked_in_profile">Data Visualization</a> ·
   <a href="https://www.credly.com/badges/77b46116-d903-49b5-8e2c-e13a9f47472c/linked_in_profile">Incident Response</a> · 
   <a href="https://www.credly.com/badges/20201dc6-9611-4c9f-8e38-43f448cca8c9/linked_in_profile">Serverless</a>
   </sub>
