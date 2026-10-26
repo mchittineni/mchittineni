@@ -1,0 +1,26 @@
+{
+  "board": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "turn": "x",
+  "last_mover": null,
+  "last_result": null,
+  "stats": {
+    "moves": 0,
+    "games": 0,
+    "x_wins": 0,
+    "o_wins": 0,
+    "draws": 0
+  },
+  "players": [],
+  "recent": [],
+  "leaderboard": {}
+}
