@@ -347,14 +347,6 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchittineni&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="860" src="https://github-readme-activity-graph.vercel.app/graph?username=mchittineni&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mchittineni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
-</p>
-
 <!-- CONTRIBUTIONS SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake/snake-dark.svg" />
@@ -378,14 +370,6 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
   <tr>
     <td align="center"><img width="430" src="assets/metrics/metrics.plugin.isocalendar.fullyear.svg" alt="Full-year contribution calendar" /></td>
     <td align="center"><img width="430" src="assets/metrics/github-metrics.svg" alt="Full metrics dashboard" /></td>
-  </tr>
-  <tr>
-    <th align="center">💡 Coding Habits</th>
-    <th align="center">📈 Habit Facts</th>
-  </tr>
-  <tr>
-    <td align="center"><img width="430" src="assets/metrics/metrics.plugin.habits.charts.svg" alt="Coding habit charts" /></td>
-    <td align="center"><img width="430" src="assets/metrics/metrics.plugin.habits.facts.svg" alt="Coding habit facts" /></td>
   </tr>
 </table>
 
