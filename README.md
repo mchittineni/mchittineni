@@ -340,32 +340,32 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Moves%20played-3-0284c7?style=flat-square" alt="Moves played: 3" />
+  <img src="https://img.shields.io/badge/Moves%20played-4-0284c7?style=flat-square" alt="Moves played: 4" />
   <img src="https://img.shields.io/badge/Games%20completed-0-4f46e5?style=flat-square" alt="Games completed: 0" />
   <img src="https://img.shields.io/badge/Players-1-9333ea?style=flat-square" alt="Players: 1" />
 </p>
 
-Everyone is welcome to play! **Click an empty square** to place the next mark. It's **⭕**'s turn.
+Everyone is welcome to play! **Click an empty square** to place the next mark. It's **❌**'s turn.
 
 <table>
   <tr>
     <td><img src="assets/tictactoe/o.svg" width="84" alt="O" /></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C2&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-2.svg" width="84" alt="Play square 2" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C3&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-3.svg" width="84" alt="Play square 3" /></a></td>
+    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Cx%7C2&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-2.svg" width="84" alt="Play square 2" /></a></td>
+    <td><img src="assets/tictactoe/o.svg" width="84" alt="O" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C4&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-4.svg" width="84" alt="Play square 4" /></a></td>
+    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Cx%7C4&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-4.svg" width="84" alt="Play square 4" /></a></td>
     <td><img src="assets/tictactoe/x.svg" width="84" alt="X" /></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C6&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-6.svg" width="84" alt="Play square 6" /></a></td>
+    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Cx%7C6&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-6.svg" width="84" alt="Play square 6" /></a></td>
   </tr>
   <tr>
     <td><img src="assets/tictactoe/x.svg" width="84" alt="X" /></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C8&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-8.svg" width="84" alt="Play square 8" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C9&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-9.svg" width="84" alt="Play square 9" /></a></td>
+    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Cx%7C8&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-8.svg" width="84" alt="Play square 8" /></a></td>
+    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Cx%7C9&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-9.svg" width="84" alt="Play square 9" /></a></td>
   </tr>
 </table>
 
-Tired of waiting? [Let the bot 🤖 play ⭕](https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7Cbot&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds.)
+Tired of waiting? [Let the bot 🤖 play ❌](https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Cx%7Cbot&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds.)
 
 ❌ wins: **0** · ⭕ wins: **0** · Draws: **0**
 
@@ -375,6 +375,7 @@ Tired of waiting? [Let the bot 🤖 play ⭕](https://github.com/mchittineni/mch
 
 | Team | Square | Played by |
 | :--: | :----: | --------- |
+| ⭕ | 3 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
 | ❌ | 7 | [@mchittineni](https://github.com/mchittineni) |
 | ⭕ | 1 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
 | ❌ | 5 | [@mchittineni](https://github.com/mchittineni) |
