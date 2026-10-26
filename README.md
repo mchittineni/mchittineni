@@ -4,14 +4,14 @@
                            HEADER BANNER
 ═════════════════════════════════════════════════════════════════ -->
 
-<a href="https://mchittineni.github.io/Portfolio/">
+<a href="https://mchittineni.github.io/mchittineni-portfolio/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0284c7&height=200&section=header&text=Manideep%20Chittineni&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Platform%2C%20Cloud%20and%20DevOps%20Engineer%20%E2%80%A2%20AI%20and%20Agentic%20Engineer&descSize=16&descAlignY=58" alt="Manideep Chittineni Header" />
 </a>
 
 <br />
 
 <!-- TYPING ANIMATION -->
-<a href="https://mchittineni.github.io/Portfolio/">
+<a href="https://mchittineni.github.io/mchittineni-portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=820&height=50&color=38BDF8&lines=Senior+Platform%2C+Cloud+%26+DevOps+Engineer;Multi-Cloud%3A+AWS+%E2%80%A2+Azure+%E2%80%A2+GCP+%E2%80%A2+OCI;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+DevSecOps+%E2%80%A2+SRE;Databricks+%26+Snowflake+Data+Platforms;Production+GenAI%2C+Agentic-AI+%26+MCP+Engineering" alt="Typing Banner" />
 </a>
 
@@ -19,7 +19,7 @@
 
 <!-- ACTION BADGES -->
 <p align="center">
-  <a href="https://mchittineni.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=nuxt.js&logoColor=00DC82" alt="Portfolio" /></a>
+  <a href="https://mchittineni.github.io/mchittineni-portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-000000?style=for-the-badge&logo=nuxt.js&logoColor=00DC82" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/manideepchittineni"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:manideep.chittineni@hotmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/mchittineni"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -437,7 +437,7 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
   <sub>Senior Platform Engineering · Multi-Cloud · DevOps · GenAI &amp; Agentic AI · SRE · FinOps · DevSecOps</sub>
 </p>
 
-<a href="https://mchittineni.github.io/Portfolio/">
+<a href="https://mchittineni.github.io/mchittineni-portfolio/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e1b4b,100:0f172a&height=120&section=footer" alt="Footer Banner" />
 </a>
 
