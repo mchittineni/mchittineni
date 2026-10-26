@@ -4,23 +4,32 @@
     "",
     "",
     "",
-    "",
+    "x",
     "",
     "",
     "",
     ""
   ],
-  "turn": "x",
-  "last_mover": null,
+  "turn": "o",
+  "last_mover": "mchittineni",
   "last_result": null,
   "stats": {
-    "moves": 0,
+    "moves": 1,
     "games": 0,
     "x_wins": 0,
     "o_wins": 0,
     "draws": 0
   },
-  "players": [],
-  "recent": [],
+  "players": [
+    "mchittineni"
+  ],
+  "recent": [
+    {
+      "team": "x",
+      "cell": 5,
+      "user": "mchittineni",
+      "bot": false
+    }
+  ],
   "leaderboard": {}
 }
