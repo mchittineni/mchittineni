@@ -34,10 +34,26 @@ jobs:
             assets/snake/snake-dark.svg?palette=github-dark
             assets/snake/snake.gif?color_snake=orange&color_dots=#bfd0e0,#5b8db8,#3268a8,#1d4e89,#0a2d5c
 
+      # Tic-tac-toe moves can land on main while the snake renders, which made a plain
+      # commit-and-push fail as non-fast-forward. Re-apply the new SVGs on top of the
+      # latest main and retry instead.
       - name: Commit to repository
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore(snake): refresh contribution animation [skip ci]"
-          file_pattern: assets/snake/*
-          commit_user_name: github-actions[bot]
-          commit_user_email: github-actions[bot]@users.noreply.github.com
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp -r assets/snake "$RUNNER_TEMP/snake"
+          for attempt in 1 2 3 4 5; do
+            git fetch --quiet origin main
+            git reset --quiet --hard origin/main
+            cp "$RUNNER_TEMP"/snake/* assets/snake/
+            git add assets/snake
+            if git diff --cached --quiet; then
+              echo "Snake animation unchanged; nothing to commit."
+              exit 0
+            fi
+            git commit --quiet -m "chore(snake): refresh contribution animation [skip ci]"
+            git push --quiet origin HEAD:main && exit 0
+            echo "Push rejected (attempt ${attempt}); retrying on the latest main."
+            sleep $(( attempt * 2 ))
+          done
+          exit 1
