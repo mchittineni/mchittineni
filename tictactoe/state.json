@@ -1,7 +1,7 @@
 {
   "board": [
     "o",
-    "",
+    "x",
     "o",
     "",
     "x",
@@ -10,11 +10,11 @@
     "",
     ""
   ],
-  "turn": "x",
-  "last_mover": "TicTacToeBot",
+  "turn": "o",
+  "last_mover": "mchittineni",
   "last_result": null,
   "stats": {
-    "moves": 4,
+    "moves": 5,
     "games": 0,
     "x_wins": 0,
     "o_wins": 0,
@@ -24,6 +24,12 @@
     "mchittineni"
   ],
   "recent": [
+    {
+      "team": "x",
+      "cell": 2,
+      "user": "mchittineni",
+      "bot": false
+    },
     {
       "team": "o",
       "cell": 3,
