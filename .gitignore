@@ -17,6 +17,9 @@ desktop.ini
 issue_metrics.md
 contributors.md
 
+# Python bytecode
+__pycache__/
+
 # Logs & temp
 *.log
 node_modules/
