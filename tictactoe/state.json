@@ -8,13 +8,13 @@
     "",
     "x",
     "o",
-    ""
+    "x"
   ],
-  "turn": "x",
-  "last_mover": "TicTacToeBot",
+  "turn": "o",
+  "last_mover": "mchittineni",
   "last_result": null,
   "stats": {
-    "moves": 6,
+    "moves": 7,
     "games": 0,
     "x_wins": 0,
     "o_wins": 0,
@@ -24,6 +24,12 @@
     "mchittineni"
   ],
   "recent": [
+    {
+      "team": "x",
+      "cell": 9,
+      "user": "mchittineni",
+      "bot": false
+    },
     {
       "team": "o",
       "cell": 8,
@@ -47,12 +53,6 @@
       "cell": 7,
       "user": "mchittineni",
       "bot": false
-    },
-    {
-      "team": "o",
-      "cell": 1,
-      "user": "mchittineni",
-      "bot": true
     }
   ],
   "leaderboard": {}
