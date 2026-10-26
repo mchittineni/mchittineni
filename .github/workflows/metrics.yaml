@@ -82,29 +82,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # -------------------------------------------------------
-      # HABITS
-      # -------------------------------------------------------
-      - name: Habits (charts)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: ${{ env.METRICS_DIR }}/metrics.plugin.habits.charts.svg
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          config_timezone: ${{ env.METRICS_TIMEZONE }}
-
-      - name: Habits (facts)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: ${{ env.METRICS_DIR }}/metrics.plugin.habits.facts.svg
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: ${{ env.METRICS_TIMEZONE }}
-
   reports:
     name: Monthly reports
     runs-on: ubuntu-latest

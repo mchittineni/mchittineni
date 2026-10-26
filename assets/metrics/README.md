@@ -12,5 +12,3 @@ they are intentionally **not** duplicated here.
 | ------------------------------------------ | -------------------------------------- |
 | `github-metrics.svg`                       | Full terminal-style activity dashboard |
 | `metrics.plugin.isocalendar.fullyear.svg`  | Full-year contribution calendar        |
-| `metrics.plugin.habits.charts.svg`         | Coding-habit activity charts           |
-| `metrics.plugin.habits.facts.svg`          | Coding-habit facts                     |

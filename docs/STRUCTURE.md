@@ -19,7 +19,6 @@ mchittineni/
 │   ├── metrics/                  # Auto-generated metric SVGs (committed by CI)
 │   │   ├── github-metrics.svg    # Full metrics dashboard
 │   │   ├── metrics.plugin.isocalendar.fullyear.svg  # Full-year contribution calendar
-│   │   ├── metrics.plugin.habits.*.svg              # Coding-habit charts & facts
 │   │   └── README.md             # Reference for each generated asset
 │   └── snake/                    # Auto-generated contribution-snake animation
 │       ├── snake.svg             # Light mode contribution snake
