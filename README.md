@@ -334,57 +334,21 @@ philosophy: Deep platform engineering + AI fluency = scalable, secure, governed,
 
 ---
 
-<!-- TICTACTOE:START -->
 ## 🎮 Community Tic-Tac-Toe
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Moves%20played-9-0284c7?style=flat-square" alt="Moves played: 9" />
-  <img src="https://img.shields.io/badge/Games%20completed-1-4f46e5?style=flat-square" alt="Games completed: 1" />
-  <img src="https://img.shields.io/badge/Players-1-9333ea?style=flat-square" alt="Players: 1" />
-</p>
+<a href="https://github.com/mchittineni/community-tic-tac-toe">
+  <img src="https://raw.githubusercontent.com/mchittineni/community-tic-tac-toe/main/assets/board.svg" width="280" alt="Live community tic-tac-toe board" />
+</a>
 
-Everyone is welcome to play! **Click an empty square** to place the next mark. It's **⭕**'s turn.
+<br /><br />
 
-<table>
-  <tr>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C1&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-1.svg" width="84" alt="Play square 1" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C2&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-2.svg" width="84" alt="Play square 2" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C3&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-3.svg" width="84" alt="Play square 3" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C4&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-4.svg" width="84" alt="Play square 4" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C5&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-5.svg" width="84" alt="Play square 5" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C6&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-6.svg" width="84" alt="Play square 6" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C7&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-7.svg" width="84" alt="Play square 7" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C8&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-8.svg" width="84" alt="Play square 8" /></a></td>
-    <td><a href="https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7C9&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/tictactoe/blank-9.svg" width="84" alt="Play square 9" /></a></td>
-  </tr>
-</table>
+<a href="https://github.com/mchittineni/community-tic-tac-toe"><img src="https://img.shields.io/badge/Play%20now-Make%20the%20next%20move-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Play now" /></a>
 
-Tired of waiting? [Let the bot 🤖 play ⭕](https://github.com/mchittineni/mchittineni/issues/new?title=ttt%7Cmove%7Co%7Cbot&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds.)
-
-The last game ended in a draw 🤝
-
-❌ wins: **0** · ⭕ wins: **0** · Draws: **1**
+One shared board, open to everyone. Make your move, then check back to see who answered.
 
 </div>
-
-**⏰ Most recent moves**
-
-| Team | Square | Played by |
-| :--: | :----: | --------- |
-| ❌ | 4 | [@mchittineni](https://github.com/mchittineni) |
-| ⭕ | 6 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
-| ❌ | 9 | [@mchittineni](https://github.com/mchittineni) |
-| ⭕ | 8 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
-| ❌ | 2 | [@mchittineni](https://github.com/mchittineni) |
-
-Curious how it works? [Read the rules and behind-the-scenes notes](tictactoe/README.md).
-<!-- TICTACTOE:END -->
 
 <br />
 
