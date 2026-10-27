@@ -13,25 +13,17 @@ mchittineni/
 ├── .github/
 │   └── workflows/
 │       ├── metrics.yaml          # Generates GitHub metrics SVGs + monthly activity reports
-│       ├── snake.yaml            # Generates the contribution-snake animation
-│       └── tictactoe.yaml        # Plays community tic-tac-toe moves opened as issues
+│       └── snake.yaml            # Generates the contribution-snake animation
 │
 ├── assets/
 │   ├── metrics/                  # Auto-generated metric SVGs (committed by CI)
 │   │   ├── github-metrics.svg    # Full metrics dashboard
 │   │   ├── metrics.plugin.isocalendar.fullyear.svg  # Full-year contribution calendar
 │   │   └── README.md             # Reference for each generated asset
-│   ├── snake/                    # Auto-generated contribution-snake animation
-│   │   ├── snake.svg             # Light mode contribution snake
-│   │   ├── snake-dark.svg        # Dark mode contribution snake
-│   │   └── snake.gif             # Animated GIF version
-│   └── tictactoe/                # Board squares: x.svg, o.svg, blank-1…9.svg
-│
-├── tictactoe/                    # Community tic-tac-toe game
-│   ├── game.py                   # Move validation, minimax bot, README rendering
-│   ├── state.json                # Current board, stats, recent moves, leaderboard
-│   ├── test_game.py              # Unit tests
-│   └── README.md                 # How to play + how it works
+│   └── snake/                    # Auto-generated contribution-snake animation
+│       ├── snake.svg             # Light mode contribution snake
+│       ├── snake-dark.svg        # Dark mode contribution snake
+│       └── snake.gif             # Animated GIF version
 │
 └── docs/
     └── STRUCTURE.md              # This file
@@ -43,7 +35,6 @@ mchittineni/
 | --------------- | -------------------------------- | ------------------------------ |
 | `metrics.yaml`  | Monthly (1st @ 00:00) + manual   | `assets/metrics/*.svg`         |
 | `snake.yaml`    | Every 12h + push to `main`       | `assets/snake/*`               |
-| `tictactoe.yaml`| New issue titled `ttt\|…`        | `README.md`, `tictactoe/state.json` |
 
 ## Content & Profile Features
 
@@ -67,3 +58,8 @@ The profile `README.md` features a high-impact, modern design representing exper
 | ---------------- | -------------- | -------------------------------------------------- |
 | `METRICS_TOKEN`  | `metrics.yaml` | PAT for the `lowlighter/metrics` action            |
 | `GITHUB_TOKEN`   | `metrics.yaml` | Built-in token for issue/contributor reports       |
+
+## Community tic-tac-toe
+
+The game lives in its own repo, [`mchittineni/community-tic-tac-toe`](https://github.com/mchittineni/community-tic-tac-toe).
+This README only embeds its live `assets/board.svg` and links there to play.
